@@ -1,0 +1,13 @@
+{
+    "cart.cta": "{{totalAmount}} 결제하기",
+    "cart.discount": "상품 할인",
+    "cart.order_summary": "주문 요약",
+    "cart.price": "가격",
+    "cart.product": "상품",
+    "cart.quantity": "수량",
+    "cart.subtotal": "주문 금액",
+    "cart.title": "장바구니",
+    "cart.total": "금액",
+    "cart.total_amount": "합계 금액",
+    "cart.vat": "세금"
+}

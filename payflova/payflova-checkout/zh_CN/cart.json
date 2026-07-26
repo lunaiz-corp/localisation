@@ -1,0 +1,13 @@
+{
+    "cart.cta": "{{totalAmount}} 付款",
+    "cart.discount": "折扣",
+    "cart.order_summary": "订单摘要",
+    "cart.price": "价格",
+    "cart.product": "商品",
+    "cart.quantity": "数量",
+    "cart.subtotal": "小计",
+    "cart.title": "购物车",
+    "cart.total": "数量",
+    "cart.total_amount": "总金额",
+    "cart.vat": "责任"
+}

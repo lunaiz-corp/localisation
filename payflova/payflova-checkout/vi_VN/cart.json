@@ -1,0 +1,13 @@
+{
+    "cart.cta": "Thanh toán {{totalAmount}}",
+    "cart.discount": "Giảm giá",
+    "cart.order_summary": "Tóm tắt đơn hàng",
+    "cart.price": "Giá",
+    "cart.product": "Hàng hóa",
+    "cart.quantity": "Số lượng",
+    "cart.subtotal": "Tổng phụ",
+    "cart.title": "Giỏ hàng",
+    "cart.total": "Số lượng",
+    "cart.total_amount": "Tổng số tiền",
+    "cart.vat": "Nhiệm vụ"
+}

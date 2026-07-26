@@ -1,0 +1,13 @@
+{
+    "cart.cta": "{{totalAmount}} お支払い",
+    "cart.discount": "割引",
+    "cart.order_summary": "注文の概要",
+    "cart.price": "価格",
+    "cart.product": "商品",
+    "cart.quantity": "数量",
+    "cart.subtotal": "小計",
+    "cart.title": "カート",
+    "cart.total": "金額",
+    "cart.total_amount": "合計金額",
+    "cart.vat": "税金"
+}

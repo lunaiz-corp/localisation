@@ -1,0 +1,11 @@
+{
+    "error.details": "Chi tiết lỗi",
+    "error.failed_internal_system_processing.desc": "Vui lòng thử lại sau một lát hoặc liên hệ với bộ phận chăm sóc khách hàng.",
+    "error.failed_internal_system_processing.title": "Đã xảy ra lỗi hệ thống nội bộ",
+    "error.no_product_in_cart.desc": "Vui lòng thử lại sau khi thêm sản phẩm.",
+    "error.no_product_in_cart.title": "Giỏ hàng trống",
+    "error.not_found_payment_session.desc": "Vui lòng bắt đầu lại quá trình thanh toán tại trung tâm mua sắm mà bạn đang ghé thăm.",
+    "error.not_found_payment_session.title": "Phiên thanh toán đã hết hạn",
+    "error.unknown_payment_error.desc": "Vui lòng thử lại sau một lát hoặc liên hệ với bộ phận chăm sóc khách hàng.",
+    "error.unknown_payment_error.title": "Đã xảy ra lỗi mạng."
+}

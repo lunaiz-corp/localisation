@@ -1,0 +1,13 @@
+{
+    "cart.cta": "Pay {{totalAmount}}",
+    "cart.discount": "Discounts",
+    "cart.order_summary": "Order Summary",
+    "cart.price": "Price",
+    "cart.product": "Product",
+    "cart.quantity": "Quantity",
+    "cart.subtotal": "Subtotal",
+    "cart.title": "Cart",
+    "cart.total": "Amount",
+    "cart.total_amount": "Total Amount",
+    "cart.vat": "Tax"
+}

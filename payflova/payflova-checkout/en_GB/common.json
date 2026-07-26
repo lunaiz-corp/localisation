@@ -1,0 +1,12 @@
+{
+    "common.footer.address": "Address : {{address}}",
+    "common.footer.business_license": "Business Number : {{businessNo}}",
+    "common.footer.business_name": "Business Name : {{businessName}}",
+    "common.footer.ceo_name": "Representative : {{ceoName}}",
+    "common.footer.disclaimer.1st": "lunaiz. Co., Ltd. performs only payment system hosting services and is not a party to or an intermediary of this mail-order sale, nor does it bear any liability for the transaction.",
+    "common.footer.disclaimer.2nd": "Unauthorized reproduction, transmission, distribution, scraping, etc., of product\/seller\/shopping information, content, UI, etc., on this site is strictly prohibited under the Copyright Act, the Content Business Promotion Act, and other relevant laws.",
+    "common.footer.email": "Email : {{contactEmail}}",
+    "common.footer.hosting_powered_by": "Hosting Provider: lunaiz. Co., Ltd.",
+    "common.footer.mail_order_license": "Mail-order Business No. : {{mailOrderNo}}",
+    "common.footer.phone_number": "Contact : {{contactPhone}}"
+}
