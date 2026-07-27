@@ -1,11 +1,11 @@
 {
-    "error.details": "Error details",
-    "error.failed_internal_system_processing.desc": "Please try again shortly or contact the customer service for assistance.",
-    "error.failed_internal_system_processing.title": "An internal system error occurred",
-    "error.no_product_in_cart.desc": "Please restart the payment again from the beginning.",
-    "error.no_product_in_cart.title": "The shopping cart is empty",
-    "error.not_found_payment_session.desc": "Please restart the payment again from the beginning.",
-    "error.not_found_payment_session.title": "The payment session has expired",
-    "error.unknown_payment_error.desc": "Please try again shortly or contact customer service.",
-    "error.unknown_payment_error.title": "A network error occurred"
+    "error.details":"Error details",
+    "error.failed_internal_system_processing.desc":"Please try again shortly or contact the customer service for assistance.",
+    "error.failed_internal_system_processing.title":"An internal system error occurred",
+    "error.no_product_in_cart.desc":"Please restart the payment again from the beginning.",
+    "error.no_product_in_cart.title":"The shopping cart is empty",
+    "error.not_found_payment_session.desc":"Please restart the payment again from the beginning.",
+    "error.not_found_payment_session.title":"The payment session has expired",
+    "error.unknown_payment_error.desc":"Please try again shortly or contact customer service.",
+    "error.unknown_payment_error.title":"A network error occurred"
 }
