@@ -4,7 +4,7 @@
     "error.failed_internal_system_processing.title":"内部システムエラーが発生しました",
     "error.no_product_in_cart.desc":"商品を追加してもう一度やり直してください",
     "error.no_product_in_cart.title":"カートは空です",
-    "error.not_found_payment_session.desc":"アクセスしたショッピングモールで再度お支払いを開始してください。",
+    "error.not_found_payment_session.desc":"アクセスしたショッピングモールで再度お支払いを開始してください",
     "error.not_found_payment_session.title":"お支払いセッションが期限切れになりました",
     "error.unknown_payment_error.desc":"しばらくしてからもう一度お試しいただくか、カスタマーセンターにお問い合わせください。",
     "error.unknown_payment_error.title":"ネットワークエラーが発生しました"
