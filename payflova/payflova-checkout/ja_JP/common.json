@@ -6,7 +6,7 @@
     "common.footer.disclaimer.1st":"lunaiz. Co., Ltd.は決済システムホスティングサービスのみを行うだけで、本通信販売の当事者や仲介者ではなく、取引に対して責任を負いません。",
     "common.footer.disclaimer.2nd":"本サイトの商品/販売者/ショッピング情報、コンテンツ、UI等に対する無断複製、転送、配布、スクレイピング等の行為は著作権法、コンテンツ事業振興法等により厳しく禁止されます。",
     "common.footer.email":"Eメール : {{contactEmail}}",
-    "common.footer.hosting_powered_by":"ホスティングサービス提供：lunaiz. Co., Ltd.",
+    "common.footer.hosting_powered_by":"ホスティングサービス提供 : lunaiz. Co., Ltd.",
     "common.footer.mail_order_license":"通信販売業申告 : {{mailOrderNo}}",
     "common.footer.phone_number":"お問い合わせ : {{contactPhone}}"
 }
