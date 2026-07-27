@@ -1,12 +1,12 @@
 {
-    "common.footer.address": "Địa chỉ : {{address}}",
-    "common.footer.business_license": "Số đăng ký kinh doanh : {{businessNo}}",
-    "common.footer.business_name": "Tên doanh nghiệp : {{businessName}}",
-    "common.footer.ceo_name": "Người đại diện : {{ceoName}}",
-    "common.footer.disclaimer.1st": "lunaiz. Co., Ltd. chỉ cung cấp dịch vụ lưu trữ hệ thống thanh toán và không tham gia hoặc đóng vai trò trung gian trong giao dịch bán hàng qua thư tín này, cũng không chịu bất kỳ trách nhiệm pháp lý nào đối với giao dịch.",
-    "common.footer.disclaimer.2nd": "Việc sao chép, truyền tải, phân phối, thu thập dữ liệu trái phép, v.v., thông tin sản phẩm\/người bán\/cửa hàng, nội dung, giao diện người dùng, v.v., trên trang web này đều bị nghiêm cấm theo Luật Bản quyền, Luật Thúc đẩy Kinh doanh Nội dung và các luật liên quan khác.",
-    "common.footer.email": "Email : {{contactEmail}}",
-    "common.footer.hosting_powered_by": "Nhà cung cấp dịch vụ lưu trữ: lunaiz. Co., Ltd.",
-    "common.footer.mail_order_license": "Đăng ký kinh doanh qua thư đặt hàng : {{mailOrderNo}}",
-    "common.footer.phone_number": "Liên hệ : {{contactPhone}}"
+    "common.footer.address":"Địa chỉ : {{address}}",
+    "common.footer.business_license":"Số đăng ký kinh doanh : {{businessNo}}",
+    "common.footer.business_name":"Tên doanh nghiệp : {{businessName}}",
+    "common.footer.ceo_name":"Người đại diện : {{ceoName}}",
+    "common.footer.disclaimer.1st":"lunaiz. Co., Ltd. chỉ cung cấp dịch vụ lưu trữ hệ thống thanh toán và không tham gia hoặc đóng vai trò trung gian trong giao dịch bán hàng qua thư tín này, cũng không chịu bất kỳ trách nhiệm pháp lý nào đối với giao dịch.",
+    "common.footer.disclaimer.2nd":"Việc sao chép, truyền tải, phân phối, thu thập dữ liệu trái phép, v.v., thông tin sản phẩm/người bán/cửa hàng, nội dung, giao diện người dùng, v.v., trên trang web này đều bị nghiêm cấm theo Luật Bản quyền, Luật Thúc đẩy Kinh doanh Nội dung và các luật liên quan khác.",
+    "common.footer.email":"Email : {{contactEmail}}",
+    "common.footer.hosting_powered_by":"Nhà cung cấp dịch vụ lưu trữ: lunaiz. Co., Ltd.",
+    "common.footer.mail_order_license":"Đăng ký kinh doanh qua thư đặt hàng : {{mailOrderNo}}",
+    "common.footer.phone_number":"Liên hệ : {{contactPhone}}"
 }
