@@ -1,12 +1,12 @@
 {
-    "common.footer.address": "地址 : {{address}}",
-    "common.footer.business_license": "商业登记号码 : {{businessNo}}",
-    "common.footer.business_name": "公司名称 : {{businessName}}",
-    "common.footer.ceo_name": "指数 : {{ceoName}}",
-    "common.footer.disclaimer.1st": "lunaiz. Co., Ltd. 仅提供支付系统托管服务，并非本次邮购交易的参与方或中介，亦不承担任何交易责任。",
-    "common.footer.disclaimer.2nd": "未经授权，严禁复制、传播、分发、抓取等本网站上的产品\/卖家\/购物信息、内容、用户界面等，违反《著作权法》、《内容商业促进法》及其他相关法律。",
-    "common.footer.email": "电子邮件 : {{contactEmail}}",
-    "common.footer.hosting_powered_by": "主机服务提供商：lunaiz. Co., Ltd.",
-    "common.footer.mail_order_license": "邮购业务注册 : {{mailOrderNo}}",
-    "common.footer.phone_number": "接触 : {{contactPhone}}"
+    "common.footer.address":"地址 : {{address}}",
+    "common.footer.business_license":"商业登记号码 : {{businessNo}}",
+    "common.footer.business_name":"公司名称 : {{businessName}}",
+    "common.footer.ceo_name":"指数 : {{ceoName}}",
+    "common.footer.disclaimer.1st":"lunaiz. Co., Ltd. 仅提供支付系统托管服务，并非本次邮购交易的参与方或中介，亦不承担任何交易责任。",
+    "common.footer.disclaimer.2nd":"未经授权，严禁复制、传播、分发、抓取等本网站上的产品/卖家/购物信息、内容、用户界面等，违反《著作权法》、《内容商业促进法》及其他相关法律。",
+    "common.footer.email":"电子邮件 : {{contactEmail}}",
+    "common.footer.hosting_powered_by":"主机服务提供商 : lunaiz. Co., Ltd.",
+    "common.footer.mail_order_license":"邮购业务注册 : {{mailOrderNo}}",
+    "common.footer.phone_number":"接触 : {{contactPhone}}"
 }
