@@ -2,9 +2,9 @@
     "error.details":"错误详情",
     "error.failed_internal_system_processing.desc":"请稍后再试或联系客服。",
     "error.failed_internal_system_processing.title":"加载付款信息时遇到问题",
-    "error.no_product_in_cart.desc":"添加商品后请再试一次。",
+    "error.no_product_in_cart.desc":"添加商品后请再试一次",
     "error.no_product_in_cart.title":"购物车是空的",
-    "error.not_found_payment_session.desc":"请在您目前所在的购物中心重新开始付款。",
+    "error.not_found_payment_session.desc":"请在您目前所在的购物中心重新开始付款",
     "error.not_found_payment_session.title":"支付会话已过期",
     "error.unknown_payment_error.desc":"请稍后再试或联系客服。",
     "error.unknown_payment_error.title":"网络出现错误"
